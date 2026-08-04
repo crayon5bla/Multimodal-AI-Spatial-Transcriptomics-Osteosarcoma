@@ -4,11 +4,10 @@ __pycache__/
 dist/
 build/
 *.egg-info/
-data/
+/data/
 runs/
 artifacts/
 .coverage
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-

@@ -1,0 +1,33 @@
+TARGET-OS
+https://portal.gdc.cancer.gov/projects/TARGET-OS
+dbGaP phs000218
+Controlled-access clinical and genomic fields may require authorization
+
+TCIA Osteosarcoma Tumor Assessment
+https://www.cancerimagingarchive.net/collection/osteosarcoma-tumor-assessment/
+TCIA Data Usage Policy
+
+Osteosarcoma Explorer
+https://datacommons.swmed.edu/cce/ose/index.php
+Portal terms apply
+
+HEST-1k
+https://github.com/mahmoodlab/hest
+CC BY-NC-SA 4.0 metadata and repository-specific asset terms
+
+GEO GSE152048
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152048
+Public GEO record; official record identifies single-cell RNA-seq rather than Visium
+
+GEO GSE162454
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162454
+Public GEO record; official record identifies single-cell RNA-seq rather than Visium
+
+GEO GSE217792
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217792
+Public GEO record; official record identifies single-cell RNA-seq rather than Visium
+
+GEO GSE283885
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE283885
+Public GEO record
+

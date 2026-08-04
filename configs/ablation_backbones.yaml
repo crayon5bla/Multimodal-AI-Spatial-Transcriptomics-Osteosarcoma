@@ -1,0 +1,8 @@
+backbones:
+  uni:
+    feature_dim: 1024
+  conch:
+    feature_dim: 512
+  virchow:
+    feature_dim: 1280
+

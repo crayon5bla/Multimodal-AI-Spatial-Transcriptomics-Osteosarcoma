@@ -1,0 +1,4 @@
+defaults: main
+distillation:
+  alpha: 0.0
+

@@ -1,0 +1,14 @@
+name: samf-osteosarcoma
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.10.14
+  - pytorch=2.2.2
+  - pytorch-cuda=12.1
+  - openslide=4.0.0
+  - pip=24.0
+  - pip:
+      - -r requirements.txt
+

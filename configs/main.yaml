@@ -1,0 +1,40 @@
+seed: 42
+device: cuda
+precision: fp16
+world_size: 1
+genes: 2000
+feature_dim: 1024
+expression:
+  hidden_dim: 512
+  dropout: 0.1
+  batch_size: 256
+  learning_rate: 0.0003
+  weight_decay: 0.01
+  epochs: 100
+  scheduler: cosine
+  warmup_epochs: 0
+distillation:
+  alpha: 0.3
+  temperature: 4.0
+fusion:
+  pathway_count: 331
+  hidden_dim: 256
+  layers: 4
+  heads: 8
+  dropout: 0.1
+survival:
+  batch_size: 1
+  learning_rate: 0.0002
+  weight_decay: 0.001
+  l2: 0.0001
+  epochs: 50
+  patience: 15
+interface:
+  distance_um: 200.0
+  clustering_iterations: 500
+evaluation:
+  bootstrap_iterations: 1000
+  permutation_iterations: 1000
+  folds: 5
+  seeds: [42, 123, 256, 512, 1024]
+

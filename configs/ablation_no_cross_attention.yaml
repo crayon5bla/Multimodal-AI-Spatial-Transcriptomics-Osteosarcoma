@@ -1,0 +1,4 @@
+defaults: main
+fusion:
+  cross_attention: false
+
